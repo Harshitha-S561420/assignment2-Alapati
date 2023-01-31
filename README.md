@@ -8,9 +8,12 @@ I like Badminton since my childhood and the game is played by two or four player
    1. PV Sindu
    2. Saina Nehwal
    3. Jwala Gutta
+
 # unordered list 
 * Badminton team league
 * Chennai super stars
 * Round robin 
    * Knock out
    * Hands up
+  
+[AboutMe](https://github.com/Harshitha-S561420/assignment2-Alapati/blob/main/AboutMe.md)
