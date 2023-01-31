@@ -18,7 +18,7 @@ I like Badminton since my childhood and the game is played by two or four player
   
 [AboutMe](https://github.com/Harshitha-S561420/assignment2-Alapati/blob/main/AboutMe.md)
 ---
-| India | Deep cultural roots and rich Heritage |
-|Thailand| Major tourist destination|
-|Malaysia| Good Islands|
-|Cambodia| Rich in heritage and natural beauty|
+| India | Deep cultural roots and rich Heritage |/
+|Thailand| Major tourist destination|/
+|Malaysia| Good Islands|/
+|Cambodia| Rich in heritage and natural beauty|/
