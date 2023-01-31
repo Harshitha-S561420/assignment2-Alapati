@@ -25,4 +25,4 @@ The table contains countries to visit and reasons for the visit
 | India | Deep cultural roots and rich Heritage | 20 |
 | Thailand | Major tourist destination | 15 |
 | Malaysia | Good Islands | 25 |
-| Cambodia | Rich in heritage and natural beauty | 30 |
+| Cambodia | To see natural beauty | 30 |
