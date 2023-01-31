@@ -26,3 +26,15 @@ The table contains countries to visit and reasons for the visit
 | Thailand | Major tourist destination | 15 |
 | Malaysia | Good Islands | 25 |
 | Cambodia | To see natural beauty | 30 |
+
+---
+# Funny Quotes
+>You're only as good as your last haircut.
+
+ * -Fran Leibowitz*
+
+>When life gives you lemons, squirt someone in the eye.
+
+ * -Cathy Guisewite*
+
+
