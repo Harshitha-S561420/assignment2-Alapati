@@ -37,4 +37,24 @@ The table contains countries to visit and reasons for the visit
 
  * -Cathy Guisewite*
 
+---
+
+# HTML code
+> Button With Line Breaks <https://stackoverflow.com/questions/38048131/how-to-newline-in-html-button>
+```
+<button>
+  some
+  <br />
+  text
+</button>
+
+<input type="button" value="some&#13;&#10;text" />
+
+<input type="button" value="some&#x00A;text" />
+```
+
+Code <https://css-tricks.com/snippets/html/button-with-line-breaks/>
+
+
+
 
