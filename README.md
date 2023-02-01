@@ -33,11 +33,11 @@ The table contains countries to visit and reasons for the visit
 # Funny Quotes
 >You're only as good as your last haircut.
 
- * -Fran Leibowitz*
+ * -Fran Leibowitz *
 
 >When life gives you lemons, squirt someone in the eye.
 
- * -Cathy Guisewite*
+ * -Cathy Guisewite *
 
 ---
 
@@ -56,7 +56,3 @@ The table contains countries to visit and reasons for the visit
 ```
 
 Code <https://css-tricks.com/snippets/html/button-with-line-breaks/>
-
-
-
-
